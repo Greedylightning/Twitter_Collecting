@@ -1,0 +1,11 @@
+# Big bang events here
+
+#default
+keyword_default = "China"
+
+#3.22 Brussels
+keyword_322 = "Brussels"
+
+#3.26 BirdieSanders
+keyword_326 = "BirdieSanders"
+

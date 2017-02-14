@@ -1,0 +1,601 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Time",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Frequence",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "BirdieSanders",
+          "idx": 1458951300000,
+          "val": 5.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458951300000,
+          "val": 35.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458951300000,
+          "val": 1.0
+        },
+        {
+          "col": "president",
+          "idx": 1458951300000,
+          "val": 6.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458951600000,
+          "val": 3.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458951600000,
+          "val": 49.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458951600000,
+          "val": 3.0
+        },
+        {
+          "col": "president",
+          "idx": 1458951600000,
+          "val": 9.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458951900000,
+          "val": 1.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458951900000,
+          "val": 17.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458951900000,
+          "val": 2.0
+        },
+        {
+          "col": "president",
+          "idx": 1458951900000,
+          "val": 2.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458952200000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458952200000,
+          "val": 40.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458952200000,
+          "val": 4.0
+        },
+        {
+          "col": "president",
+          "idx": 1458952200000,
+          "val": 5.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458952500000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458952500000,
+          "val": 31.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458952500000,
+          "val": 2.0
+        },
+        {
+          "col": "president",
+          "idx": 1458952500000,
+          "val": 8.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458952800000,
+          "val": 1.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458952800000,
+          "val": 20.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458952800000,
+          "val": 3.0
+        },
+        {
+          "col": "president",
+          "idx": 1458952800000,
+          "val": 2.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458953100000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458953100000,
+          "val": 22.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458953100000,
+          "val": 6.0
+        },
+        {
+          "col": "president",
+          "idx": 1458953100000,
+          "val": 2.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458953400000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458953400000,
+          "val": 18.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458953400000,
+          "val": 6.0
+        },
+        {
+          "col": "president",
+          "idx": 1458953400000,
+          "val": 2.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458953700000,
+          "val": 57.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458953700000,
+          "val": 20.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458953700000,
+          "val": 1.0
+        },
+        {
+          "col": "president",
+          "idx": 1458953700000,
+          "val": 1.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458954000000,
+          "val": 32.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458954000000,
+          "val": 32.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458954000000,
+          "val": 5.0
+        },
+        {
+          "col": "president",
+          "idx": 1458954000000,
+          "val": 4.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458954300000,
+          "val": 20.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458954300000,
+          "val": 36.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458954300000,
+          "val": 6.0
+        },
+        {
+          "col": "president",
+          "idx": 1458954300000,
+          "val": 4.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458954600000,
+          "val": 10.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458954600000,
+          "val": 18.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458954600000,
+          "val": 3.0
+        },
+        {
+          "col": "president",
+          "idx": 1458954600000,
+          "val": 2.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458954900000,
+          "val": 12.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458954900000,
+          "val": 39.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458954900000,
+          "val": 4.0
+        },
+        {
+          "col": "president",
+          "idx": 1458954900000,
+          "val": 4.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458955200000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458955200000,
+          "val": 30.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458955200000,
+          "val": 2.0
+        },
+        {
+          "col": "president",
+          "idx": 1458955200000,
+          "val": 8.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458955500000,
+          "val": 1.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458955500000,
+          "val": 8.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458955500000,
+          "val": 1.0
+        },
+        {
+          "col": "president",
+          "idx": 1458955500000,
+          "val": 2.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458955800000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458955800000,
+          "val": 23.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458955800000,
+          "val": 2.0
+        },
+        {
+          "col": "president",
+          "idx": 1458955800000,
+          "val": 6.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458956100000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458956100000,
+          "val": 21.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458956100000,
+          "val": 2.0
+        },
+        {
+          "col": "president",
+          "idx": 1458956100000,
+          "val": 2.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458956400000,
+          "val": 1.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458956400000,
+          "val": 7.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458956400000,
+          "val": 1.0
+        },
+        {
+          "col": "president",
+          "idx": 1458956400000,
+          "val": 3.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458956700000,
+          "val": 3.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458956700000,
+          "val": 29.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458956700000,
+          "val": 3.0
+        },
+        {
+          "col": "president",
+          "idx": 1458956700000,
+          "val": 3.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458957000000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458957000000,
+          "val": 24.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458957000000,
+          "val": 2.0
+        },
+        {
+          "col": "president",
+          "idx": 1458957000000,
+          "val": 3.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458957300000,
+          "val": 1.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458957300000,
+          "val": 7.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458957300000,
+          "val": 1.0
+        },
+        {
+          "col": "president",
+          "idx": 1458957300000,
+          "val": 1.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458957600000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458957600000,
+          "val": 30.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458957600000,
+          "val": 3.0
+        },
+        {
+          "col": "president",
+          "idx": 1458957600000,
+          "val": 4.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458957900000,
+          "val": 2.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458957900000,
+          "val": 20.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458957900000,
+          "val": 4.0
+        },
+        {
+          "col": "president",
+          "idx": 1458957900000,
+          "val": 3.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458958200000,
+          "val": 1.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458958200000,
+          "val": 15.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458958200000,
+          "val": 1.0
+        },
+        {
+          "col": "president",
+          "idx": 1458958200000,
+          "val": 2.0
+        },
+        {
+          "col": "BirdieSanders",
+          "idx": 1458958500000,
+          "val": 1.0
+        },
+        {
+          "col": "Sanders",
+          "idx": 1458958500000,
+          "val": 15.0
+        },
+        {
+          "col": "Birdie",
+          "idx": 1458958500000,
+          "val": 1.0
+        },
+        {
+          "col": "president",
+          "idx": 1458958500000,
+          "val": 2.0
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [
+    {
+      "fill": "color",
+      "offset": 0,
+      "properties": {},
+      "title": "Multitopics Time Series"
+    }
+  ],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "stroke": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "strokeWidth": {
+                "value": 2
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "data.val",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "line"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "time"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.val"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}

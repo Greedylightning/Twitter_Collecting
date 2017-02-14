@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//twitter_data_analysis/old/twitter_text_analysis.py=utf-8
+encoding//twitter_data_analysis/twitter_basic_analysis.py=utf-8
+encoding//twitter_data_analysis/twitter_matrix_analysis.py=utf-8
+encoding//twitter_data_analysis/twitter_word_analysis.py=utf-8
+encoding//twitter_data_collection/twitter_authenticate.py=utf-8
+encoding//twitter_data_collection/twitter_listener.py=utf-8
+encoding//twitter_data_preprocess/twitter_text_preprocess.py=utf-8
+encoding/<project>=UTF-8
