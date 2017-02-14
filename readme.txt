@@ -19,6 +19,5 @@
 	
 5.运行配置：
 	1.命令行方式启动：1.sudo python3 twitter_authenticate.py -k China
-								   2.sudo python3 twitter_authenticate.py --keyword China
-								   
-	2.eclipse方式启动：修改twitter_authenticate方法的keyword参数
+	2.sudo python3 twitter_authenticate.py --keyword China							   
+	3.eclipse方式启动：修改twitter_authenticate方法的keyword参数
